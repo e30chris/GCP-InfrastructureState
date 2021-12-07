@@ -31,6 +31,8 @@ _Internal services_
 
 ![availability_table](availability_table.png)
 
+---
+
 #### Dev Env 
 
 _How to use the development environment_
@@ -71,6 +73,8 @@ To SSH into the running VM in the dev env follow these steps:
 To suggest any needed changes to the infrastructure, the following Git repos can be `git pull requested` to ask for the changes you need.
 
 Refer to the [README](README.md) for a breakdown of where each infrastructure resource is defined, in either the Foundation Layer or the Service Layer.
+
+---
 
 #### Proposed production architecture
 
