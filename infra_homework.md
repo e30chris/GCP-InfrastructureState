@@ -19,6 +19,15 @@ _Notes:_
 
 Description: A non-critical API service to be utilized by already existing internal services.  Accepts and returns ASCII strings on a TCP port.
 
+#### Open Questions
+
+* Is this application shipped as a compiled binary?
+* What datastore backend does this application require? 
+* What is the expected consistency of the backend data?  
+  * Eventual or realtime consistency?
+* Does this application contain, view, or require access to any personal information of customers?
+* Does this application contain, view, or require access to any financial data?
+
 #### Customers
 
 _Internal services_
