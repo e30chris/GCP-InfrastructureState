@@ -12,3 +12,5 @@ _Notes:_
 > * The wing structure engineer could not use the tools of the assembly engineer as effectively as the that engineer can.
 > * The wing assembly engineer could not use the computers of the structure engineer as effectinvely as that engineer can.
 > * Although both engineers are equally knowledgeable on the wing structure of the 787 they should not attempt to do each others jobs and instead should focus on their skillset and tooling set that gets the best wing built and shipped to the customers.
+
+---
