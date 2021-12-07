@@ -5,7 +5,6 @@ _Notes:_
 > The brief asked for an application/API to be coded.  As an infrastructure engineer, my coding expertise is in Terraform that hosts the application code, not the app code itself.  To highlight my thinking around infrastructure-as-code and the Terraform code that is the desired state of the infrastructure, I will complete the homework as an Ops team engineer who is responsible for the infrastructure code.
 > I would like to add additional thoughts to the brief around the discipline of coding from an application and infrastructure point of view.
 > Using Boeing as the scenario (787 specifically), we have engineers that design the wing structures and we have engineers that assemble the wing structures.  
-
 > * Both engineers are the worlds leading knowledge holders on Boeing 787 wing structures. 
 > * Neither engineer would be able to do the others skillset.
 > * The wing structure engineer uses computers to design, engineer, test, and ship the plans to build the wings.
