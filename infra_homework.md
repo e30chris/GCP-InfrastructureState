@@ -66,6 +66,10 @@ To SSH into the running VM in the dev env follow these steps:
 5. From your CLI which must be logged in via the SDK, run that `gcloud` command
 6. A SSH Tunnel is now established to the dev env HashiStack VM using GCP IAP
 
+#### Infrastructure Desired State
 
+To suggest any needed changes to the infrastructure, the following Git repos can be `git pull requested` to ask for the changes you need.
+
+Refer to the [README](README.md) for a breakdown of where each infrastructure resource is defined, in either the Foundation Layer or the Service Layer.
 
 
